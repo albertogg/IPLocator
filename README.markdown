@@ -2,15 +2,18 @@
 
 ### Locates the IP Country.
 
+Simple java application using a SOAP web service from [webservicex.net][servicex]
+ 
+
 ## usage
 
 To run the application just type 
    
-      java -jar /path/to/IPLocator.jar
+     java -jar /path/to/IPLocator.jar
 
 or 
 
-      java -jar /path/to/IPLocator.jar < file.txt
+     java -jar /path/to/IPLocator.jar < file.txt
 
 the file.txt is a file that can contain any number of ip addresses
 for exaple :
@@ -18,3 +21,7 @@ for exaple :
      200.35.233.23
      189.35.1.3
      193.200.1.4
+
+If running from console type "quit" to exit.
+
+[servicex]: http://www.webservicex.net/
