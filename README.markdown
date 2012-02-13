@@ -2,8 +2,11 @@
 
 ### Locates the IP Country.
 
-Simple java application using a SOAP web service from [webservicex.net][servicex]
- 
+Simple java application using a SOAP web service from [webservicex.net][servicex] that runs from console.
+
+## Install
+
+You need to have java installed to run this application, Download the proyect and extract IPLocator.jar to any directory.
 
 ## usage
 
