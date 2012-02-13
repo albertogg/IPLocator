@@ -29,4 +29,11 @@ If running from console type "quit" to exit.
 
 [servicex]: http://www.webservicex.net/
 
-This app was done for distributed systems a course on computer engineering on Universidad Católica Andrés Bello, Caracas Venezuela.
+## University
+
+This app was done for distributed systems a course on computer engineering on [$
+
+This is a [@albertogg][alberto] app.
+
+[ucab]: http://www.ucab.edu.ve/escueladeingenierainformatica.html
+[alberto]: http://albertogrespan.com
