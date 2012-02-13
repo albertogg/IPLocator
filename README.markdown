@@ -6,7 +6,7 @@ Simple java application using a SOAP web service from [webservicex.net][servicex
 
 ## Install
 
-You need to have java installed to run this application, Download the proyect and extract IPLocator.jar to any directory.
+You need to have java installed to run this application, Download the proyect and extract IPLocator.jar(/dist/IPLocator.jar) to any directory.
 
 ## usage
 
@@ -19,7 +19,7 @@ or
      java -jar /path/to/IPLocator.jar < file.txt
 
 the file.txt is a file that can contain any number of ip addresses
-for exaple :
+for example :
 
      200.35.233.23
      189.35.1.3
