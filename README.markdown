@@ -31,7 +31,7 @@ If running from console type "quit" to exit.
 
 ## University
 
-This app was done for distributed systems a course on computer engineering on [Universidad Católica Andrés Bello, Caracas, Venezuela.][ucab]
+This app was done for distributed systems a course on computer engineering on [Universidad Católica Andrés Bello][ucab],Caracas Venezuela.
 
 This is a [@albertogg][alberto] app.
 
