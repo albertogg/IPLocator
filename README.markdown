@@ -28,3 +28,5 @@ for example :
 If running from console type "quit" to exit.
 
 [servicex]: http://www.webservicex.net/
+
+This app was done for distributed systems a course on computer engineering on Universidad Católica Andrés Bello, Caracas Venezuela.
